@@ -1,0 +1,13 @@
+{
+  "name": "mql21/ohce-kata",
+  "description": "Ohce Kata Project",
+  "require": {
+    "phpunit/phpunit": "^9.5"
+  },
+  "autoload": {
+    "psr-4": {
+      "OhceKata\\": "src/",
+      "OhceKataTest\\": "test/"
+    }
+  }
+}

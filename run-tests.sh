@@ -1,0 +1,1 @@
+docker-compose run php-environment vendor/bin/phpunit
